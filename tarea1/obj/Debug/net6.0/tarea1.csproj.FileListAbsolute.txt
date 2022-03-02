@@ -1,0 +1,15 @@
+/home/death/Documents/Projects/c#/IDS341/tarea1/bin/Debug/net6.0/tarea1
+/home/death/Documents/Projects/c#/IDS341/tarea1/bin/Debug/net6.0/tarea1.deps.json
+/home/death/Documents/Projects/c#/IDS341/tarea1/bin/Debug/net6.0/tarea1.runtimeconfig.json
+/home/death/Documents/Projects/c#/IDS341/tarea1/bin/Debug/net6.0/tarea1.dll
+/home/death/Documents/Projects/c#/IDS341/tarea1/bin/Debug/net6.0/ref/tarea1.dll
+/home/death/Documents/Projects/c#/IDS341/tarea1/bin/Debug/net6.0/tarea1.pdb
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.csproj.AssemblyReference.cache
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.GeneratedMSBuildEditorConfig.editorconfig
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.AssemblyInfoInputs.cache
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.AssemblyInfo.cs
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.csproj.CoreCompileInputs.cache
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.dll
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/ref/tarea1.dll
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.pdb
+/home/death/Documents/Projects/c#/IDS341/tarea1/obj/Debug/net6.0/tarea1.genruntimeconfig.cache
