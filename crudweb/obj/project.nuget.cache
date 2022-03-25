@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsJk6Ev8OokvHfQQNYlhwWjvf7cegtp4g7dVbRfmh4h4b7T+nwVcSIK8Mb02Wl0d8ZKL+zRsZqx+/nAdT2LC6w==",
+  "success": true,
+  "projectFilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/crudweb.csproj",
+  "expectedPackageFiles": [
+    "/home/death/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.2/microsoft.netcore.app.runtime.linux-x64.6.0.2.nupkg.sha512",
+    "/home/death/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512",
+    "/home/death/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.2/microsoft.aspnetcore.app.runtime.linux-x64.6.0.2.nupkg.sha512",
+    "/home/death/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.2/microsoft.netcore.app.host.linux-x64.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
