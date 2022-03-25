@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "COSHDsYz5A+e9h9ef4lGiTuvfRljMSdBlXCzYOxm5gg=",
+  "Hash": "Qgzca1T1+Id8+jTZioZFTPL7wv9lcXhm2YbProOrv1Y=",
   "Source": "crudweb",
   "BasePath": "_content/crudweb",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/linux-x64/scopedcss/bundle/crudweb.styles.css",
+      "Identity": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/scopedcss/bundle/crudweb.styles.css",
       "SourceId": "crudweb",
       "SourceType": "Computed",
-      "ContentRoot": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/linux-x64/scopedcss/bundle/",
+      "ContentRoot": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/crudweb",
       "RelativePath": "crudweb.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/linux-x64/scopedcss/bundle/crudweb.styles.css"
+      "OriginalItemSpec": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/scopedcss/bundle/crudweb.styles.css"
     },
     {
-      "Identity": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/linux-x64/scopedcss/projectbundle/crudweb.bundle.scp.css",
+      "Identity": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/scopedcss/projectbundle/crudweb.bundle.scp.css",
       "SourceId": "crudweb",
       "SourceType": "Computed",
-      "ContentRoot": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/linux-x64/scopedcss/projectbundle/",
+      "ContentRoot": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/crudweb",
       "RelativePath": "crudweb.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/linux-x64/scopedcss/projectbundle/crudweb.bundle.scp.css"
+      "OriginalItemSpec": "/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/scopedcss/projectbundle/crudweb.bundle.scp.css"
     },
     {
       "Identity": "/home/death/Documents/Projects/c#/IDS341/crudweb/wwwroot/css/site.css",

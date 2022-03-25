@@ -24,3 +24,10 @@
 /home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/ref/crudweb.dll
 /home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/crudweb.pdb
 /home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/crudweb.genruntimeconfig.cache
+/home/death/Documents/Projects/c#/IDS341/crudweb/bin/Debug/net6.0/Humanizer.dll
+/home/death/Documents/Projects/c#/IDS341/crudweb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/death/Documents/Projects/c#/IDS341/crudweb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/death/Documents/Projects/c#/IDS341/crudweb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/death/Documents/Projects/c#/IDS341/crudweb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/death/Documents/Projects/c#/IDS341/crudweb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/death/Documents/Projects/c#/IDS341/crudweb/obj/Debug/net6.0/crudweb.csproj.CopyComplete

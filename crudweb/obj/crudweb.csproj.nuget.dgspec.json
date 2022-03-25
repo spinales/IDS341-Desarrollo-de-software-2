@@ -17,14 +17,14 @@
           "/home/death/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
-            "targetAlias": "net6.0",
+            "targetAlias": "net6.0.0",
             "projectReferences": {}
           }
         },
@@ -36,7 +36,25 @@
       },
       "frameworks": {
         "net6.0": {
-          "targetAlias": "net6.0",
+          "targetAlias": "net6.0.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,18 +69,6 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[6.0.2, 6.0.2]"
-            },
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[6.0.2, 6.0.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.2, 6.0.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-              "version": "[6.0.2, 6.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -74,11 +80,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }
