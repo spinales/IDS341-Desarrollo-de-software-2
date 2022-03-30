@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/Views/ColegioElectoral/Delete.cshtml",
+      "TargetPath": "Views\\ColegioElectoral\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/Views/ColegioElectoral/Create.cshtml",
       "TargetPath": "Views\\ColegioElectoral\\Create.cshtml",
       "FileKind": "mvc"
