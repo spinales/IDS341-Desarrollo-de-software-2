@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/Views/ColegioElectoral/Create.cshtml",
+      "TargetPath": "Views\\ColegioElectoral\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -16325,6 +16330,16 @@
     {
       "FilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/Views/ColegioElectoral/Index.cshtml",
+      "TargetPath": "Views\\ColegioElectoral\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/crudweb/Views/ColegioElectoral/Details.cshtml",
+      "TargetPath": "Views\\ColegioElectoral\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

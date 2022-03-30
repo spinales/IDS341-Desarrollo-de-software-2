@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/death/Documents/Projects/c#/IDS341/crudweb
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/death/Documents/Projects/c\#/IDS341/crudweb/Views/ColegioElectoral/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sZWdpb0VsZWN0b3JhbC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/death/Documents/Projects/c\#/IDS341/crudweb/Views/ColegioElectoral/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sZWdpb0VsZWN0b3JhbC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/death/Documents/Projects/c\#/IDS341/crudweb/Views/ColegioElectoral/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sZWdpb0VsZWN0b3JhbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/death/Documents/Projects/c\#/IDS341/crudweb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

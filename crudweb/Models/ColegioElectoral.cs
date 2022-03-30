@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace crudweb.Models
 {
@@ -22,5 +23,9 @@ namespace crudweb.Models
         public DateTime FechaCreacion { get; set; }
 
         public virtual ICollection<Ciudadano> Ciudadanos { get; set; }
+        // [ForeignKey("SectorId")]
+        // public Sector sector { get; set; } 
+        // [ForeignKey("MunicipioId")]
+        // public virtual Municipio municipio { get; set; } 
     }
 }
