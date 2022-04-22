@@ -8,9 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "final-proyect/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.4",
           "Microsoft.EntityFrameworkCore.Design": "6.0.4",
-          "Microsoft.EntityFrameworkCore.Tools": "6.0.4",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.4"
         },
         "runtime": {
@@ -73,11 +71,6 @@
             "assemblyVersion": "6.0.4.0",
             "fileVersion": "6.0.422.16106"
           }
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Tools/6.0.4": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "6.0.4"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
@@ -218,13 +211,6 @@
       "sha512": "sha512-E867NbEXYRTElBF5ff+1AN5Awa1jkORy/Rrm0ueibaTAV5uw89LsLoH6yTe+b9urZTWMHtLfGd1RDdNjk8+KzA==",
       "path": "microsoft.entityframeworkcore.relational/6.0.4",
       "hashPath": "microsoft.entityframeworkcore.relational.6.0.4.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.Tools/6.0.4": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-6uAir6kFgkZoM2xsmNxs3WhK03xN37u4fW44X8cAXzllkG4txMajbkYhT0jSh4D+YrnfdNCq3K8ol3MyCCGEug==",
-      "path": "microsoft.entityframeworkcore.tools/6.0.4",
-      "hashPath": "microsoft.entityframeworkcore.tools.6.0.4.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
       "type": "package",

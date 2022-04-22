@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ffxr1TdkWooIs+AlvTiA5zixSqCXrDwaeGYaai3Y1eDMUCUPN4eyBhUEpTHRd2FMIyrFLTJ+KOGlKHLlfzCsmg==",
+  "dgSpecHash": "1+y8ctqp5R7H6NMSMOUW0ZiieY6wo/CHyRwuKC0H3dA+ymDNQJNiMge/860ZyYWrX1y3xvXvR9zc5Gx/Ewhivg==",
   "success": true,
   "projectFilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/final-proyect.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,6 @@
     "/home/death/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.4/microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",
     "/home/death/.nuget/packages/microsoft.entityframeworkcore.design/6.0.4/microsoft.entityframeworkcore.design.6.0.4.nupkg.sha512",
     "/home/death/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.4/microsoft.entityframeworkcore.relational.6.0.4.nupkg.sha512",
-    "/home/death/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.4/microsoft.entityframeworkcore.tools.6.0.4.nupkg.sha512",
     "/home/death/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/home/death/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "/home/death/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
