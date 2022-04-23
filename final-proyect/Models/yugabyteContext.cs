@@ -23,7 +23,7 @@ namespace final_proyect.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseNpgsql("Name=ConnectionStrings:YugabyteString");
+                optionsBuilder.UseNpgsql("Host=us-west-2.c8bb4aec-1489-4875-9026-338971b93558.aws.ybdb.io;Port=5433;Database=yugabyte;Username=admin;Password=XaT6OyoNpVBHD2clezuwSwQJ2hQ9Ma");
             }
         }
 
