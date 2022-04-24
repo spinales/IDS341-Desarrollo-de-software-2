@@ -11,19 +11,19 @@
     </p>
 </form>
 
-<a asp-action="Create">Agregar Nueva Tarea</a><p> | </p><a asp-action="Completed"> Tareas Ya realizadas</a>
+<a asp-action="Create">Agregar Nueva Tarea</a> | <a asp-action="Completed"> Tareas Ya realizadas</a>
 
 <table class="table mt-12">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Name)
+                Nombre
             </th>
             <th>
                 Categoria
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Description)
+                Descripcion
             </th>
             <th></th>
         </tr>

@@ -15,13 +15,13 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Name)
+                Nombre
             </th>
             <th>
                 Categoria
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Description)
+                Descripcion
             </th>
             <th></th>
         </tr>
@@ -41,7 +41,6 @@
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Marcar como Completada</a>
             </td>
         </tr>
 }
