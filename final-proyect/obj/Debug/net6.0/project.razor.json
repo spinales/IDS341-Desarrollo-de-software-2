@@ -16298,6 +16298,26 @@
   "RootNamespace": "final_proyect",
   "Documents": [
     {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Task/Details.cshtml",
+      "TargetPath": "Views\\Task\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Task/Edit.cshtml",
+      "TargetPath": "Views\\Task\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Task/Delete.cshtml",
+      "TargetPath": "Views\\Task\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Task/Completed.cshtml",
+      "TargetPath": "Views\\Task\\Completed.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16305,6 +16325,11 @@
     {
       "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Task/Create.cshtml",
+      "TargetPath": "Views\\Task\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16350,6 +16375,11 @@
     {
       "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Category/Create.cshtml",
       "TargetPath": "Views\\Category\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/death/Documents/Projects/c#/IDS341/final-proyect/Views/Task/Index.cshtml",
+      "TargetPath": "Views\\Task\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

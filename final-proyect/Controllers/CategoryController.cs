@@ -37,7 +37,6 @@ public class CategoryController : Controller
     public IActionResult Create(
         [Bind("Name")] Category categoria)
     {
-
         try
         {
             using (var db = new yugabyteContext())
@@ -53,9 +52,6 @@ public class CategoryController : Controller
         }
         catch (DbUpdateException ex)
         {
-            ModelState.AddModelError("", "Unable to save changes. " +
-            "Try again, and if the problem persists " +
-            "Contact me :)");
             _logger.LogError(ex.Message);
         }
 
@@ -90,12 +86,12 @@ public class CategoryController : Controller
 
         
         using (var db = new yugabyteContext()) {
-            var movie = await db.Categories.FindAsync(id);
-            if (movie == null)
+            var cat = await db.Categories.FindAsync(id);
+            if (cat == null)
             {
                 return NotFound();
             }
-            return View(movie);
+            return View(cat);
         }
     }
 
@@ -145,9 +141,14 @@ public class CategoryController : Controller
     {
         using (var db = new yugabyteContext()) {
             var category = await db.Categories.FindAsync(id);
-            db.Categories.Remove(category);
-            await db.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            if (category != null)
+            {
+                db.Categories.Remove(category);
+                await db.SaveChangesAsync();    
+                return RedirectToAction(nameof(Index));
+            }
+            return NotFound();
+            
         }
     }
 
