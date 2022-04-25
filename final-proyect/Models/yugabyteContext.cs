@@ -23,7 +23,8 @@ namespace final_proyect.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseNpgsql("Host=us-west-2.c8bb4aec-1489-4875-9026-338971b93558.aws.ybdb.io;Port=5433;Database=yugabyte;Username=admin;Password=XaT6OyoNpVBHD2clezuwSwQJ2hQ9Ma");
+                // optionsBuilder.UseNpgsql("Host=us-west-2.c8bb4aec-1489-4875-9026-338971b93558.aws.ybdb.io;Port=5433;Database=yugabyte;Username=admin;Password=XaT6OyoNpVBHD2clezuwSwQJ2hQ9Ma");
+                optionsBuilder.UseNpgsql("Host=ec2-54-80-122-11.compute-1.amazonaws.com;Port=5432;Database=darous0d7bk68p;Username=bjwwslqmourksi;Password=19d0c641cfe46ed8ffa67c1162b8ee5ca52b8029603727ca0efcb0f637f90fcd");
             }
 
             optionsBuilder.LogTo(Console.WriteLine).EnableSensitiveDataLogging();
